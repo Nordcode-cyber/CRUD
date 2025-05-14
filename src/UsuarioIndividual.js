@@ -3,7 +3,7 @@ import React from 'react'
 function UsuarioIndividual(){
     return(
         <div>
-            <h2>UsuarioIndividualo</h2>
+            <h2>UsuarioIndividual</h2>
         </div>
     )
 }
